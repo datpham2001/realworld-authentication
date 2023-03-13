@@ -1,0 +1,4 @@
+mongo_uri: "mongodb+srv://datpham1012:08032021td@cluster0.xtpdaql.mongodb.net/?retryWrites=true&w=majority"
+db_name: "realworld_db"
+token_secret: "my-secret-token-key"
+port: 8080
